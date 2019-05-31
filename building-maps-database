@@ -1,0 +1,5 @@
+[Database]
+database = chemistry_sandpit
+hostname = database.ch.private.cam.ac.uk
+username = ads81
+password_file = /etc/building-maps-database
